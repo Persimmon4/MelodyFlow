@@ -49,7 +49,7 @@ https://github.com/Persimmon4/MelodyFlow
 - 分类筛选
 - 歌曲列表浏览
 
-<img src="home.png" width="280"/>
+<img src="Home.png" width="280"/>
 
 ---
 
@@ -105,7 +105,7 @@ https://github.com/Persimmon4/MelodyFlow
 
 - 深色模式切换
 
-<img src="screenshots/settings.png" width="280"/>
+<img src="settings.png" width="280"/>
 
 ---
 
